@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e051932-897e-4e1d-9889-1cfad8de120b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XjU54PQ3WFA5chYeoqxqNMTM49" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Scholar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GoogleScholar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scholar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Scholar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e051932-897e-4e1d-9889-1cfad8de120b" name="Default Changelist" comment="" />
+      <created>1581558811546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581558811546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581558932415">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="781" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.828@0.23.1440.828" timestamp="1581558932415" />
+    <state width="1193" height="201" key="GridCell.Tab.0.bottom" timestamp="1583386865384">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1193" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583386865384" />
+    <state width="1121" height="201" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1581559221089" />
+    <state width="1193" height="201" key="GridCell.Tab.0.center" timestamp="1583386865383">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1193" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583386865383" />
+    <state width="1121" height="201" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1581559221080" />
+    <state width="1193" height="201" key="GridCell.Tab.0.left" timestamp="1583386865382">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1193" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583386865382" />
+    <state width="1121" height="201" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1581559221079" />
+    <state width="1193" height="201" key="GridCell.Tab.0.right" timestamp="1583386865383">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1193" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583386865383" />
+    <state width="1121" height="201" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1581559221082" />
+    <state x="735" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1581558890603">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="735" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1581558890603" />
+    <state x="717" y="72" width="683" height="729" key="find.popup" timestamp="1581558907536">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="717" y="72" width="683" height="729" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1581558907536" />
+  </component>
+</project>
